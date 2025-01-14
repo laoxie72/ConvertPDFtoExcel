@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d405d871-cf0c-425b-836b-e75b1fec496f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/chartconvert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/csv_to_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/pdf_to_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/main.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/warn-main.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/main/xref-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chartconvert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_to_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/convert_to_console.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linktest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/linktest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/四川1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pdf_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pdf_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/main_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main_window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;laoxie72&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/laoxie72/ConvertPDFtoExcel.git&quot;,
+    &quot;accountId&quot;: &quot;2cc7dd19-9948-41a0-aee4-9481b74f11da&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -64,8 +54,9 @@
     "Python.convert_to_console.executor": "Run",
     "Python.linktest.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.main_window.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,7 +70,7 @@
       <recent name="E:\py_project\Py-PdfConvert\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main_window">
     <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-PdfConvert" />
       <option name="ENV_FILES" value="" />
@@ -149,29 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linktest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Py-PdfConvert" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\py_project\Py-PdfConvert\Test\linktest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-PdfConvert" />
       <option name="ENV_FILES" value="" />
@@ -195,13 +163,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py-PdfConvert" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frontend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frontend/main_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_window" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.MainWindow" />
         <item itemvalue="Python.chartconvert" />
         <item itemvalue="Python.convert_to_console" />
-        <item itemvalue="Python.linktest" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +213,13 @@
       <option name="presentableId" value="Default" />
       <updated>1736411772425</updated>
       <workItem from="1736411773772" duration="6297000" />
-      <workItem from="1736481128943" duration="4977000" />
+      <workItem from="1736481128943" duration="5952000" />
+      <workItem from="1736491105907" duration="1319000" />
+      <workItem from="1736648737045" duration="299000" />
+      <workItem from="1736649044347" duration="2706000" />
+      <workItem from="1736660908876" duration="19000" />
+      <workItem from="1736757957039" duration="5000" />
+      <workItem from="1736830501379" duration="1655000" />
     </task>
     <servers />
   </component>
@@ -246,5 +243,6 @@
     <SUITE FILE_PATH="coverage/Py_PdfConvert$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1736487082085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py_PdfConvert$linktest.coverage" NAME="linktest Coverage Results" MODIFIED="1736412695760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py_PdfConvert$chartconvert.coverage" NAME="chartconvert Coverage Results" MODIFIED="1736413581997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py_PdfConvert$main_window.coverage" NAME="main_window Coverage Results" MODIFIED="1736831848836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frontend" />
   </component>
 </project>
