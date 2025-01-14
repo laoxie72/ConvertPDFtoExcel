@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d405d871-cf0c-425b-836b-e75b1fec496f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/pdf_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pdf_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/error.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/main_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.spec" beforeDir="false" afterPath="$PROJECT_DIR$/main.spec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <recent name="E:\py_project\Py-PdfConvert\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_window">
+  <component name="RunManager" selected="Python.main">
     <configuration name="MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-PdfConvert" />
       <option name="ENV_FILES" value="" />
@@ -188,8 +190,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_window" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main_window" />
         <item itemvalue="Python.MainWindow" />
         <item itemvalue="Python.chartconvert" />
         <item itemvalue="Python.convert_to_console" />
@@ -219,7 +221,7 @@
       <workItem from="1736649044347" duration="2706000" />
       <workItem from="1736660908876" duration="19000" />
       <workItem from="1736757957039" duration="5000" />
-      <workItem from="1736830501379" duration="1655000" />
+      <workItem from="1736830501379" duration="3199000" />
     </task>
     <servers />
   </component>
@@ -238,7 +240,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Py_PdfConvert$main.coverage" NAME="main Coverage Results" MODIFIED="1736487709730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Py_PdfConvert$main.coverage" NAME="main Coverage Results" MODIFIED="1736833414642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py_PdfConvert$convert_to_console.coverage" NAME="convert_to_console Coverage Results" MODIFIED="1736412801091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py_PdfConvert$MainWindow.coverage" NAME="MainWindow Coverage Results" MODIFIED="1736487082085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Py_PdfConvert$linktest.coverage" NAME="linktest Coverage Results" MODIFIED="1736412695760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
